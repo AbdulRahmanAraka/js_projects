@@ -1,0 +1,73 @@
+/* #container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    text-align: center;
+}
+
+#button-container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+.button{
+    
+    border: 5px;
+    border-color: black;
+    width: 100px;
+    height: 100px;
+    
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#white{
+    background-color: green;
+}
+
+#black{
+    background-color: black;
+} */
+
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  
+  #grey {
+    background: grey;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  
